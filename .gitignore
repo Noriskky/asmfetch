@@ -1,0 +1,5 @@
+# build artifact
+asmfetch
+
+# build files
+*.o
